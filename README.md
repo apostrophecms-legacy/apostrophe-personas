@@ -1,3 +1,7 @@
+# ⛔️ **DEPRECATED** — do not use for new projects
+
+See [our current docs](https://docs.apostrophecms.org/)
+
 # apostrophe-personas
 
 This module helps you specialize the content of each page of an [Apostrophe site](http://apostrophecms.org) based on the user's primary affiliation. Here are good examples:
